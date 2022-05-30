@@ -50,9 +50,10 @@ pod 'LCCycleBanner'
 ### Manual
 
 1. Download everything in the LCCycleBanner folder;
-2. Add (drag and drop) the source files in LCCycleBanner to your project.
+2. Add (drag and drop) the source files in LCCycleBanner to your project;
+3. Import `LCCycleBanner`.
 
 ## License
 
-CycleBannerView is provided under the MIT license. See LICENSE file for details.
+LCCycleBanner is provided under the MIT license. See LICENSE file for details.
 
