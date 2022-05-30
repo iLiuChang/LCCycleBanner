@@ -1,4 +1,4 @@
-# CycleBannerView
+# LCCycleBanner
 An infinite scroll control implemented with two views.
 
 ## Requirements
@@ -41,16 +41,16 @@ func reusableView(in cycleBannerView: CycleBannerView) -> UIView {
 
 ### CocoaPods
 
-To integrate CycleBannerView into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate LCCycleBanner into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'CycleBannerView'
+pod 'LCCycleBanner'
 ```
 
 ### Manual
 
-1. Download everything in the CycleBannerView folder;
-2. Add (drag and drop) the source files in CycleBannerView to your project.
+1. Download everything in the LCCycleBanner folder;
+2. Add (drag and drop) the source files in LCCycleBanner to your project.
 
 ## License
 

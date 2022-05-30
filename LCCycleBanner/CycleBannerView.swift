@@ -1,6 +1,6 @@
 //  CycleBannerView.swift
 // 
-//  CycleBanner (https://github.com/iLiuChang/CycleBannerView)
+//  CycleBanner (https://github.com/iLiuChang/LCCycleBanner)
 //
 //  Created by 刘畅 on 2022/5/27.
 //

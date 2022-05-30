@@ -40,7 +40,7 @@
 		58983E402840B3DC00720B28 = {
 			isa = PBXGroup;
 			children = (
-				58983E4B2840B3DC00720B28 /* CycleBanner */,
+				58983E4B2840B3DC00720B28 /* LCCycleBanner */,
 				58983E4A2840B3DC00720B28 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,10 +53,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		58983E4B2840B3DC00720B28 /* CycleBanner */ = {
+		58983E4B2840B3DC00720B28 /* LCCycleBanner */ = {
 			isa = PBXGroup;
 			children = (
-				58DD8EFC2844622B003289C9 /* CycleBannerView */,
+				58DD8EFC2844622B003289C9 /* LCCycleBanner */,
 				58983E4C2840B3DC00720B28 /* AppDelegate.swift */,
 				58983E502840B3DC00720B28 /* ViewController.swift */,
 				58983E522840B3DC00720B28 /* Main.storyboard */,
@@ -64,16 +64,16 @@
 				58983E572840B3DD00720B28 /* LaunchScreen.storyboard */,
 				58983E5A2840B3DD00720B28 /* Info.plist */,
 			);
-			path = CycleBanner;
+			path = LCCycleBanner;
 			sourceTree = "<group>";
 		};
-		58DD8EFC2844622B003289C9 /* CycleBannerView */ = {
+		58DD8EFC2844622B003289C9 /* LCCycleBanner */ = {
 			isa = PBXGroup;
 			children = (
 				58DD8EFD2844622B003289C9 /* CycleBannerView.swift */,
 			);
-			name = CycleBannerView;
-			path = ../../CycleBannerView;
+			name = LCCycleBanner;
+			path = ../../LCCycleBanner;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
