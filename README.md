@@ -1,20 +1,20 @@
-# CycleBanner
+# CycleBannerView
 An infinite scroll control implemented with two views.
 
-# Requirements
+## Requirements
 
 - **iOS 9.0+**
 - **Swift 4.0+**
 
 >  Programming in Objective-C? Try [LCInfiniteScrollView](https://github.com/iLiuChang/LCInfiniteScrollView) for a more conventional set of APIs.
 
-# Features
+## Features
 
 - Supports infinite scrolling.
 - Reuse with two views.
 - Support for custom reuse views.
 
-# Usage
+## Usage
 
 ### Init
 
@@ -37,15 +37,22 @@ func reusableView(in cycleBannerView: CycleBannerView) -> UIView {
 }
 ```
 
-## Installation with CocoaPods
+## Installation
 
-To integrate CycleBanner into your Xcode project using CocoaPods, specify it in your `Podfile`:
+### CocoaPods
+
+To integrate CycleBannerView into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'CycleBanner'
+pod 'CycleBannerView'
 ```
 
-# License
+### Manual
 
-CycleBanner is provided under the MIT license. See LICENSE file for details.
+1. Download everything in the CycleBannerView folder;
+2. Add (drag and drop) the source files in CycleBannerView to your project.
+
+## License
+
+CycleBannerView is provided under the MIT license. See LICENSE file for details.
 
